@@ -20,25 +20,24 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScri
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
-### TODO APP Project (project_1_link)
+### TODO APP Project
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**TODO APP Project** is a **simple mobile app that helps users manage everyday tasks.** I built it with **with HTML, CSS, and JavaScript.**. This project demonstrates my ability to **design clean interfaces, write organized code, and build functional features from scratch.**. You can check out the repository [here](project_1_repository_link).
+**TODO APP Project** is a **simple mobile app that helps users manage everyday tasks.** I built it with **with HTML, CSS, and JavaScript.**. This project demonstrates my ability to **design clean interfaces, write organized code, and build functional features from scratch.**. You can check out the repository [here](https://besuhosiso.github.io/TODO-APP/).
 
-### Calculator Project (project_2_link)
+### Calculator Project
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**Calculator Project** is a **basic calculator that handles common arithmetic operations.** I built with **HTML, CSS, and JavaScript.**. This project showcases my skills in **DOM manipulation, layout design, and building interactive UI components.**. You can check out the repository [here](project_2_repository_link).
+**Calculator Project** is a **basic calculator that handles common arithmetic operations.** I built with **HTML, CSS, and JavaScript.**. This project showcases my skills in **DOM manipulation, layout design, and building interactive UI components.**. You can check out the repository [here](https://besuhosiso.github.io/Calcula/).
 
 ## Get in Touch 📬
 
-- **[GitHub]**(https://besuhosiso.github.io/besuthedev/)
+- **[GitHub](https://besuhosiso.github.io/besuthedev/)**
 - **[LinkedIn]**(your_linkedin_profile_link)
 - **[Twitter]**(your_twitter_profile_link)
 
