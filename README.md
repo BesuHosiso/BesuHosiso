@@ -24,21 +24,21 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScri
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### TODO APP Project (project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**TODO APP Project** is a **simple mobile app that helps users manage everyday tasks.** I built it with **with HTML, CSS, and JavaScript.**. This project demonstrates my ability to **design clean interfaces, write organized code, and build functional features from scratch.**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+### Calculator Project (project_2_link)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**Calculator Project** is a **basic calculator that handles common arithmetic operations.** I built with **HTML, CSS, and JavaScript.**. This project showcases my skills in **DOM manipulation, layout design, and building interactive UI components.**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
-- **https://besuhosiso.github.io/besuthedev/**
+- **[GitHub]**(https://besuhosiso.github.io/besuthedev/)
 - **[LinkedIn]**(your_linkedin_profile_link)
 - **[Twitter]**(your_twitter_profile_link)
 
