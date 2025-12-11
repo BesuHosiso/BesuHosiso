@@ -25,13 +25,13 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScri
 
 ### TODO APP Project
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Screenshot of TODO App](todo.png)
 
 **TODO APP Project** is a **simple mobile app that helps users manage everyday tasks.** I built it with **with HTML, CSS, and JavaScript.**. This project demonstrates my ability to **design clean interfaces, write organized code, and build functional features from scratch.**. You can check out the repository [here](https://besuhosiso.github.io/TODO-APP/).
 
 ### Calculator Project
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Screenshot of calculator](Calcula.png)
 
 **Calculator Project** is a **basic calculator that handles common arithmetic operations.** I built with **HTML, CSS, and JavaScript.**. This project showcases my skills in **DOM manipulation, layout design, and building interactive UI components.**. You can check out the repository [here](https://besuhosiso.github.io/Calcula/).
 
