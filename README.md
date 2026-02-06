@@ -38,7 +38,7 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScri
 ## Get in Touch 📬
 
 - **[Portfolio Website](https://besuhosiso.github.io/besuthedev/)**
-- **[LinkedIn]**(your_linkedin_profile_link)
+- **[LinkedIn](https://www.linkedin.com/in/besufikad-hosiso-23a2313aa/)**
 - **[Twitter]**(your_twitter_profile_link)
 
 
