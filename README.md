@@ -13,7 +13,7 @@
 
 I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScript, Tailwind, Bootstrap and React**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Node.js, MongoDb and Python**
+- 🌱 Currently learning: **Node.js, SQLite and Python**
 - 🔭 Working on: **building my own online agency while continuing to develop projects and expand my skills in web development.**
 - 🌍 Languages: **Programming languages: HTML, CSS, JavaScript, Python (beginner), SQL (basic); Human languages: English (fluent), Amharic (native), French (basic).**
 - 📫 How to reach me: **besuyeboss@gmail.com**
@@ -22,7 +22,7 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScri
 ## My Skills 🧠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,git,vscode"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,sqlite,git,vscode"/>
   </a>
 </p>
 
