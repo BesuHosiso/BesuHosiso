@@ -26,6 +26,17 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScri
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://www.readmecodegen.com/api/social-icon?name=html5&size=32) 
+![CSS3](https://www.readmecodegen.com/api/social-icon?name=css3&size=32)
+![JavaScript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=32)
+![React](https://www.readmecodegen.com/api/social-icon?name=react&size=32)
+
+### Backend  
+![Node.js](https://www.readmecodegen.com/api/social-icon?name=node&size=32)
+![Python](https://www.readmecodegen.com/api/social-icon?name=python&size=32)
 
 
 ## Featured Projects 💻
