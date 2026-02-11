@@ -1,6 +1,13 @@
 # Hi there, I'm BESUFIKAD HOSISO! 👋
 
-![Banner Image](your_banner_image_url_here)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
 
 ## About Me 🚀
 
