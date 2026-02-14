@@ -22,7 +22,7 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScri
 ## My Skills 🧠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,sqlite,git,vscode"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,sqlite,git,vscode"/>
   </a>
 </p>
 
