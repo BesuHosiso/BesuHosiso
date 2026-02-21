@@ -34,11 +34,21 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScri
 
 **TODO APP Project** is a **simple mobile app that helps users manage everyday tasks.** I built it with **with HTML, CSS, and JavaScript.**. This project demonstrates my ability to **design clean interfaces, write organized code, and build functional features from scratch.**. You can check out the repository [here](https://besuhosiso.github.io/TODO-APP/).
 
-### Calculator Project
 
-![Screenshot of calculator](Calcula.png)
+# Dollar Birr Tracker
 
-**Calculator Project** is a **basic calculator that handles common arithmetic operations.** I built with **HTML, CSS, and JavaScript.**. This project showcases my skills in **DOM manipulation, layout design, and building interactive UI components.**. You can check out the repository [here](https://besuhosiso.github.io/Calcula/).
+
+![Dollar Birr Tracker Dashboard](./dollar-birr-tracker.png)
+
+
+Dollar Birr Tracker is a dedicated real-time dashboard designed to bridge the information gap in the currency market. It allows users to monitor the fluctuating exchange rate between the United States Dollar (USD) and the Ethiopian Birr (ETB) instantly using real-time APIs. This project provides clarity by comparing live market trends with official banking rates within a modern, responsive interface.
+[Live Demo](https://besuhosiso.github.io/dollar-birr-tracker/)
+
+## 🚀 Technologies Used
+
+- JavaScript (API integrations, dashboard logic)
+- HTML, CSS (UI design & responsive layout)
+- Real-time currency APIs
 
 ## Get in Touch 📬
 
